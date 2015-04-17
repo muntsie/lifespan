@@ -1,2 +1,2 @@
 # lifespan
-calculates a person's lifespan easily
+easily calculates a person's lifespan
